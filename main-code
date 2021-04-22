@@ -6,10 +6,10 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("\n### Guess My Number Game ###\n");
+        System.out.println("\n## Guess My Number Game ##\n");
 
-        System.out.println("--- Rules ---");
-        System.out.println("Think of a number from 1 to 100 and I'll try to guess it.");
+        System.out.println("*** Rules ***");
+        System.out.println("Think of a number from 1 to 100 and I'll try to guess it!");
         System.out.println("Enter \"higher\" if my guess is too low.");
         System.out.println("Enter \"lower\" if my guess is too high.");
         System.out.println("Enter \"correct\" if I get it right.");
